@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
 
+
+
 /// <summary>
 /// Enkelt adressboksprogram i konsolen.
 /// </summary>
