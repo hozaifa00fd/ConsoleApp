@@ -44,7 +44,7 @@ namespace ConsoleApp_NET8.Test
             program.DisplayAllContacts();
 
             // Assert
-            // Add assertions based on the expected output in the console
+
         }
 
         [Fact]
@@ -58,10 +58,10 @@ namespace ConsoleApp_NET8.Test
             program.DisplayContactDetails("John Doe");
 
             // Assert
-            // Add assertions based on the expected output in the console
+           
         }
 
-        // Add more test methods for other functionalities
+        
     }
 
 }
